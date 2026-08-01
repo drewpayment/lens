@@ -2733,10 +2733,10 @@
   dependencies:
     "@babel/types" "^7.3.0"
 
-"@types/chrome@^0.0.124":
-  version "0.0.124"
-  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.124.tgz#1cdb8e1c1ddb04b15844f5a71b9907f73bbb84a2"
-  integrity sha512-0UmDQ6A9gaahvztKryIonSTyUMEhuhKNyyJAnBB7ZJN/YXP7YRkL4onPFSTxnIbXcMnYsQFo8TxsGP8jY2mdEw==
+"@types/chrome@^0.2.0":
+  version "0.2.5"
+  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.2.5.tgz#adb843504f9a8e737fb48c0e82e78ffeb3616a0f"
+  integrity sha512-DwLFgwj3D0zjxRBhQ3610RBso2g+yI1cakq/JdIGopZ9Bc5UhQluyfcLGZwivFE4t2h4b2QZYZhPV7KylExSbA==
   dependencies:
     "@types/filesystem" "*"
     "@types/har-format" "*"
